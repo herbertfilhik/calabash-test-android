@@ -4,3 +4,5 @@ Feature: Login feature
     Given I am on the login windows
     When I press Login
     And I search a Seller
+    And I click on Promotion Option Menu
+    And I click on Agendamento de Preço Option fill fields
