@@ -1,5 +1,6 @@
 Feature: Login feature
-
   Scenario: As a valid user I can log into my app
-    When I press "Login"
-    Then I see "Welcome to coolest app ever"
+    
+    Given I am on the login windows
+    When I press Login
+    And I search a Seller

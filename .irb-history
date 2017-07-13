@@ -1,0 +1,27 @@
+start_test_server_in_background
+clear
+clear
+cls
+exit
+query "*"
+exit
+start_test_server_in_background
+sudo start_test_server_in_background
+clear
+exit
+query "*"
+start_test_server_in_background
+query "*"
+exit
+query "*"
+query "*"
+exit
+start_test_server_in_background
+query "*"
+query "*"
+query "*"
+query "*"
+query "*"
+query "*"
+query "*"
+exit
